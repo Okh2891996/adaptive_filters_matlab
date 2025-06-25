@@ -1,6 +1,6 @@
 # Adaptive Filters MATLAB Implementation for Speech Noise Cancellation
 
-This repository contains MATLAB implementations and experiments for adaptive filtering algorithms applied to noise cancellation in speech signals. The project was developed as part of the **EE8104 - Advanced Digital Signal Processing** course at Toronto Metropolitan University under the supervision of **Dr. Sridhar Krishnan**.
+This repository contains MATLAB implementations and experiments for adaptive filtering algorithms applied to noise cancellation in speech signals. The project was developed as part of the **EE8104 - Adaptive  Signal Processing** course at Toronto Metropolitan University under the supervision of **Prof. Dr. Sridhar Krishnan**.
 
 ## Project Overview
 
